@@ -13,3 +13,5 @@
 
 > Alantec - Arquitetos do Futuro
 > Verificação de Soberania: Ativa. Padrão RSA 4096 | Assinado por Jean Laris. [cite: 2026-02-21, 2026-01-15]
+
+> Protocolo TC: Engenharia da Antecipação em 4K. Alantec - Arquitetos do Futuro.
