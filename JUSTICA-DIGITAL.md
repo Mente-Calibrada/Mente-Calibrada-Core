@@ -22,3 +22,4 @@
 ## 🛠 Próximas Ações
 - [ ] Mapeamento de Semente (Fase 1).
 - [ ] Validação da Visão (Fase 2).
+- [ ] Ativação de Soberania Alantec concluída.
