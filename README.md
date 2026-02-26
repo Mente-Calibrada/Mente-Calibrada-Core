@@ -12,3 +12,4 @@
 **LINHA 13:** Zenit do Flow. Sincronia E1+E2. QI 145-160+.
 
 > Alantec - Arquitetos do Futuro
+> Verificação de Soberania: Ativa. Padrão RSA 4096 | Assinado por Jean Laris. [cite: 2026-02-21, 2026-01-15]
